@@ -2,8 +2,8 @@
 Recently i started learn react.js and i complete the all topics of react like, npm, npx, use of creat-react-app, props, hooks, etc. 
 so i decided to start creating a projects and i creat my first project a background color changer app with uing react.js its a very small projet.
 
-# code
 
+# code
 import { useState } from "react";
 function App() {
   const [color, setColor] = useState("black");
