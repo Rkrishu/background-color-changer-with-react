@@ -5,10 +5,8 @@ so i decided to start creating a projects and i creat my first project a backgro
 # code
 
 import { useState } from "react";
-
 function App() {
   const [color, setColor] = useState("black");
-
   return (
     <div
       className="w-full h-screen duration-200"
